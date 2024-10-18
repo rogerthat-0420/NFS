@@ -88,7 +88,7 @@ You can play around with the `TESTING` folder.
 
 # Team Members
 - [Aditya Mishra](https://github.com/AdityaMishraOG)
-- [Hardik Kalia](https://github.com/hardikkalia)
+- [Kushang Agarwal](https://github.com/rogerthat-0420)
 - [Tejas Cavale](https://github.com/Tele29)
   
 # Notes
